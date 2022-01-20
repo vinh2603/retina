@@ -11,7 +11,7 @@ setuptools.setup(
     description="RetinaFace: Deep Face Detection Framework in TensorFlow for Python",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/serengil/retinaface",
+    url="https://github.com/vinh2603/retina",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
