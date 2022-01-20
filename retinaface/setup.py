@@ -4,7 +4,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="retina-face", #pip install retina-face
+    name="retina-face-vinh", #pip install retina-face
     version="0.0.10",
     author="Sefik Ilkin Serengil",
     author_email="serengil@gmail.com",
